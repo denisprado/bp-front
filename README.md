@@ -6,7 +6,7 @@ Este é o teste da Brainweb para frontend React. É um formulário para montar u
 
 ## Para rodar, yarn start
 
-Para esxecutar em modo desenvolvimento, basta executar
+Para rodar localmente em modo desenvolvimento, basta executar
 
 `yarn` e `yarn start`
 
